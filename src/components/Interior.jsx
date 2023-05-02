@@ -9,9 +9,9 @@ const Interior = () => {
       </div>
 
       <div className='grid grid-cols-2 col-span-2 gap-2'>
-        <img className='object-cover w-full h-full' src="/img/restaurant3.jpg" alt="/" />
-        <img className='row-span-2 object-cover w-full h-full' src="/img/restaurant1.jpg" alt="/" />
-        <img className='object-cover w-full h-full' src="/img/restaurant2.jpg" alt="/" />
+        <img className='object-cover w-full h-full' src="/public/restaurant3.jpg" alt="/" />
+        <img className='row-span-2 object-cover w-full h-full' src="/public/restaurant1.jpg" alt="/" />
+        <img className='object-cover w-full h-full' src="/public/restaurant2.jpg" alt="/" />
       </div>
     </div>
   )

@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="w-full h-screen">
       <img
         className="top-0 left-0 w-full h-screen object-cover"
-        src="/img/sushi4.jpg"
+        src="/public/sushi4.jpg"
         alt=""
       />
       <div className="bg-black/40 absolute top-0 left-0 w-full h-screen" />

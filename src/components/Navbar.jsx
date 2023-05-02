@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     <div id='Home' className="absolute w-full h-50 flex p-4 items-center z-20">
-      <img className="w-20" src="/img/mascot.png " alt="" />
+      <img className="w-20" src="/public/mascot.png " alt="" />
       <h1 className="text-red-600 font-bold text-4xl ">Namie <span className="text-white">Sushi</span> </h1>
       <HiMenuAlt3
         onClick={handleNav}
