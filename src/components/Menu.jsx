@@ -13,11 +13,11 @@ const Menu = () => {
         <p className='pb-2'>Try our selection of Mochi Ice Cream, Fried Ice Cream and Cheesecakes.</p>
       </div>
       <div className='grid grid-cols-2 grid-rows-6 h-[80vh] lg:row-start-1'>
-        <img className='row-span-3 object-cover w-full h-full p-2' src="/Images/sushi1.jpg" alt="/" />
-        <img className='row-span-2 object-cover w-full h-full p-2' src="/Images/sushi2.jpg" alt="/" />
-        <img className='row-span-2 object-cover w-full h-full p-2' src="/Images/sushi3.jpg" alt="/" />
-        <img className='row-span-3 object-cover w-full h-full p-2' src="/Images/sushi8.jpg" alt="/" />
-        <img className='row-span-2 object-cover w-full h-full p-2' src="/Images/sushi7.jpg" alt="/" />
+        <img className='row-span-3 object-cover w-full h-full p-2' src="/static/images/sushi1.jpg" alt="/" />
+        <img className='row-span-2 object-cover w-full h-full p-2' src="/static/images/sushi2.jpg" alt="/" />
+        <img className='row-span-2 object-cover w-full h-full p-2' src="/static/images/sushi3.jpg" alt="/" />
+        <img className='row-span-3 object-cover w-full h-full p-2' src="/static/images/sushi8.jpg" alt="/" />
+        <img className='row-span-2 object-cover w-full h-full p-2' src="/static/images/sushi7.jpg" alt="/" />
       </div>
       
     </div>
